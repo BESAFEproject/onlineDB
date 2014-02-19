@@ -1,6 +1,6 @@
 # Welcome to the BESAFE online database discussion #
 
-We have an [issue tracker](https://github.com/BESAFEproject/onlineDB/issues) and a [wiki](https://github.com/BESAFEproject/onlineDB/wiki).
+We have a [forum](https://github.com/BESAFEproject/onlineDB/issues) and a [wiki](https://github.com/BESAFEproject/onlineDB/wiki).
 
 If you are new to GitHub take a look at the following guides:
 
